@@ -24,6 +24,8 @@ The incident response team identified the issue as the fields covered by the old
 
 Other services in the organization relying on the core service were starting to feel the error rates and cascade in turn.
 
+![](./img/phase1.png)
+
 ## Phase 2
 
 Your team has chosen to bring back the old API endpoint with redacted data, and then invalidate the cache in the core service and force it to refresh it with redacted data from the old API endpoint. The system has been stabilized.
@@ -33,6 +35,8 @@ As part of your approach to handling this incident you brought in, amongst other
 However, later that day someone detected marketing material going out publicly that still used the original information. After some investigation, it was determined that a bug in how the cache was invalidated meant that if the records had not changed (as indicated by a timestamp), the old core service simply kept them as-is in their storage. Since the data redaction on the old API did not happen within storage, the timestamp for the last update never got changed and the data redaction never got propagated.
 
 Downstream services therefore still had access to the information and were using it in breach of the law.
+
+![](./img/phase2.png)
 
 ## Phase 3
 
@@ -45,3 +49,6 @@ The act of flushing the cache and redacting data had “corrupted” the informa
 
 What’s more, you find out that this is a broader pattern and other teams might be in the same situation.
 It was even suggested that more services started depending on that core service during the brownouts because they kept the data available and they were reputed for their API stability (a benefit of being an old, slow-moving service).
+
+![](./img/phase3.png)
+

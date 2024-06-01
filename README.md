@@ -17,7 +17,7 @@ This latter document contains information we think might be useful for people wa
 
 While we are distributing this set of documents for free and for people to try it within their organizations, the original authors do maintain full copyright (this is **not** a Creative Commons licensed document).
 
-In terms of payment, we would like to request feedback about the experiments you have run. Consider [sending us an email](info@tracecognitive.com) with some of the following information:
+In terms of payment, we would like to request feedback about the experiments you have run. Consider [sending us an email](mailto:info@tracecognitive.com) with some of the following information:
 
 - What's your level of prior experience with running similar simulations?
 - What's the size of organization you have run this in?

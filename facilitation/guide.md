@@ -47,13 +47,13 @@ For example, if for phase 1 someone recommends permanently removing the cache al
 Other useful excuses to hide information can include:
 
 - The person in charge is on vacation/retired/ill/off the grid 
-- Time pressure (say a major demo at an industry keynote) forces a decision or prevent more careful exploration
+- Time pressure (say a major demo at an industry keynote) forces a decision or prevents more careful exploration
 - Legacy systems whom nobody understands fully and the fix would take a bit too long
-- The explanations given can be wrong out outdated (“a person who was on that team last year tells me …”)
+- The explanations given can be wrong or out outdated (“a person who was on that team last year tells me …”)
 
 Each phase of the vignette comes with a hand-drawn architecture diagram—meant to look like an engineer quickly put it together during incident response. Feel free to withold it, use it for your own support as facilitator, to show it, or to draw it yourself for your group if or when they ask for more information.
 
-If you can record the session, do so; if you can’t, consider finding a note-taker who is neutral and aware of your role to support you.
+If you can record the session, do so; if you can’t, consider finding a neutral person who can serve as a note-taker and extra support if needed. 
 
 ### Discussion
 
@@ -63,12 +63,12 @@ The main element explored with the vignette and the questions are about **how do
   - What questions do you have about the problem?
   - What factors are you considering in how you want to handle this problem?
   - What risks are you considering (this may be technical risks for cascading failures, or organizational risks like damage to reputation or economic loss or may be something else). 
-  - At this point, who do you believe should be involved in this incident response?
+  - At this point, are all the people you believe should be involved in handling this incident response involved? If not, what roles are missing? Why? 
   - How might involving those parties impact the incident response?
-  - As a manager you may not join every incident. At what point would you want to be made aware of this problem? (skip this question if you are an IC)
-  - As an incident responder, at what point would you bring in additional parties to the incident response? (Skip this question if you are a manager)
+  - Q for managers: As a manager you may not join every incident. At what point would you want to be made aware of this problem? (skip this question if you are an IC)
+  - Q for ICs: As an incident responder, at what point would you bring in additional parties to the incident response? (Skip this question if you are a manager)
 - Phase 2 questions:
-  - How does this unexpected behavior change your perspective on the incident?
+  - How does this new unexpected behavior change your perspective on the incident?
   - What strategies might you take to minimize the risk to your company? What factors are you considering by using these strategies?
   - Since this is now public, with the information having gone out in marketing materials, how have your considerations changed?
 - Phase 3 questions:
@@ -78,18 +78,21 @@ The main element explored with the vignette and the questions are about **how do
 Other questions that can be useful for any phase (although they may anchor responses?):
   - How critical would you consider this incident to be?
   - Are you feeling like someone made an error in this scenario? What could you imagine making it seem _reasonable_ to do what they did?
-  - ???
+  - 
 
 ### Lessons & Learning
 
-Once again, the focus in general is related to making tradeoff decisions. An interesting thing to do with the exercise is to see if the content it has can translate to situations within the organization(s) of the participants.
+This scenario was designed to be complex, multi-layered with no clear "right" answers. Some participants may find this frustrating. The goal of facilitating the tabletop exercise is to bring to light how tradeoffs are inherent in all software engineering decisions.  Helping teams to recognize what tradeoffs are being made, and how different roles may want to handle them, can help your teams get better at sharing information, managing multiple competing priorities, and working together collaboratively under pressure. By using a scenario of another company, participants can relate the conditions back to their own organization(s).
 
 The following questions may help:
 
- - Would you consider this to be one incident or multiple incidents? What would influence your descision?
- - Can you identify clashing priorities and conflicts in the scenario? Are any of these value also in a state of tension within your organization?
- - If people asked questions or commented about the sources and causes of the incident, did they focus on dynamics, on the system, the processes, the components or individuals? 
+ - What competing competing priorities or goal conflicts can you identify in the scenario? Do any of these exist within your organization?
+ - Would you consider this to be one incident or multiple incidents? How might this influence your descisions or actions?
+ - When participants asked questions or commented about the sources and causes of the incident, did they focus on dynamics, on the system, the processes, the components or individuals? 
  - How did you balance ensuring getting more accurate information with providing a timely response?
  - Are there elements that surprised you? How did you when that happened?
 
 You may also want to compare this incident to other ones your organization had in the past, or see if any of the elements or challenges in this case could be probable with your organizations.
+
+As a facilitator you want to try to elicit responses from all participants - not just the ones who speak up first.  Try to watch who is not jumping into the discussion and ask them directly if they noticed anything worth sharing. To help create an environment where people feel comfortable speaking up when there are no "right" answers, be supportive of the thoughts and opinions of participants. Phrases like "That's a great point..." or "I never thought of it that way..." give others confidence to chime in.  If you want to steer a conversation away from an unproductive line of discussion (such as fixating on what the participants "did wrong" you may wish to steer conversation away with "It's important to remember that everyone is working within constraints. Let's try to approach their actions and decisions from a position of inquiry, not incredulousness!" 
+If you need to manage someone who is occupying a lot of airspace, try a phrase like "Good points. I can really see where you are coming from, I'm curious if anyone has anything else to add?"

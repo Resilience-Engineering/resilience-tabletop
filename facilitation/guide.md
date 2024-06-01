@@ -86,7 +86,7 @@ This scenario was designed to be complex, multi-layered with no clear "right" an
 
 The following questions may help:
 
- - What competing competing priorities or goal conflicts can you identify in the scenario? Do any of these exist within your organization?
+ - What competing priorities or goal conflicts can you identify in the scenario? Do any of these exist within your organization?
  - Would you consider this to be one incident or multiple incidents? How might this influence your descisions or actions?
  - When participants asked questions or commented about the sources and causes of the incident, did they focus on dynamics, on the system, the processes, the components or individuals? 
  - How did you balance ensuring getting more accurate information with providing a timely response?

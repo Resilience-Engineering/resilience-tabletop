@@ -17,17 +17,7 @@ This latter document contains information we think might be useful for people wa
 
 While we are distributing this set of documents for free and for people to try it within their organizations, the original authors do maintain full copyright (this is **not** a Creative Commons licensed document).
 
-In terms of payment, we would like to request feedback about the experiments you have run. Consider [sending us an email](mailto:info@tracecognitive.com) with some of the following information:
-
-- What's your level of prior experience with running similar simulations?
-- What's the size of organization you have run this in?
-- What's the industry your organization operates in?
-- How many participants did you have? What was their range of experience and current roles within the organization?
-- Did you or your team find anything challenging about this exercise? If so, can you give details?
-- Have there been any salient elements or surprising parts when running the exerise?
-- Do you have any other extra comments about this that you think we should know about?
-
-These will in turn let us improve this toolkit and expand its use.
+In terms of payment, we would like to request feedback about the experiments you have run. Consider [filling in our survey's questions](https://docs.google.com/forms/d/e/1FAIpQLSd-LK10oIl2lVjFnX2QzeipiXvC8BY_nN2JJbXelglx12yDBQ/viewform?usp=sf_link), which will in turn let us improve this toolkit and expand its use.
 
 ### Maintainers
 

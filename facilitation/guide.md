@@ -78,7 +78,6 @@ The main element explored with the vignette and the questions are about **how do
 Other questions that can be useful for any phase (although they may anchor responses?):
   - How critical would you consider this incident to be?
   - Are you feeling like someone made an error in this scenario? What could you imagine making it seem _reasonable_ to do what they did?
-  - 
 
 ### Lessons & Learning
 

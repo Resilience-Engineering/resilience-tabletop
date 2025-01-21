@@ -88,10 +88,13 @@ The following questions may help:
  - What competing priorities or goal conflicts can you identify in the scenario? Do any of these exist within your organization?
  - Would you consider this to be one incident or multiple incidents? How might this influence your decisions or actions?
  - When participants asked questions or commented about the sources and causes of the incident, did they focus on dynamics, on the system, the processes, the components or individuals? 
- - How did you balance ensuring getting more accurate information with providing a timely response?
- - Are there elements that surprised you? How did you when that happened?
+ - How did you balance getting accurate information with providing a timely response?
+ - Are there elements that surprised you? How did you react when that happened?
 
 You may also want to compare this incident to other ones your organization had in the past, or see if any of the elements or challenges in this case could be probable with your organizations.
 
-As a facilitator you want to try to elicit responses from all participants - not just the ones who speak up first.  Try to watch who is not jumping into the discussion and ask them directly if they noticed anything worth sharing. To help create an environment where people feel comfortable speaking up when there are no "right" answers, be supportive of the thoughts and opinions of participants. Phrases like "That's a great point..." or "I never thought of it that way..." give others confidence to chime in.  If you want to steer a conversation away from an unproductive line of discussion (such as fixating on what the participants "did wrong" you may wish to steer conversation away with "It's important to remember that everyone is working within constraints. Let's try to approach their actions and decisions from a position of inquiry, not incredulousness!" 
-If you need to manage someone who is occupying a lot of airspace, try a phrase like "Good points. I can really see where you are coming from, I'm curious if anyone has anything else to add?"
+Some additional facilitation tips:
+- As a facilitator you want to try to elicit responses from all participants - not just the ones who speak up first.  Try to watch who is not jumping into the discussion and ask them directly if they noticed anything worth sharing.
+- To help create an environment where people feel comfortable speaking up when there are no "right" answers, be supportive of the thoughts and opinions of participants. Phrases like "That's a great point..." or "I never thought of it that way..." give others confidence to chime in.
+- If you need to steer a conversation away from an unproductive line of discussion (such as fixating on what the participants "did wrong") you may wish to steer conversation away with "It's important to remember that everyone is working within constraints. Let's try to approach their actions and decisions from a position of inquiry, not incredulousness!" 
+- If you need to manage someone who is occupying a lot of airspace, try a phrase like "Good points. I can really see where you are coming from, I'm curious if anyone has anything else to add?"
